@@ -1,2 +1,2 @@
-# skills_explorer
+# skills_explorer Based on Skip-Gram model trained on unigrams, bigrams and trigrams
 Given a keyword (skill), find similar or relevant keywords (skills). For example: if the keyword is “html”, the relevant keywords would be “css”, “javascript” etc…
